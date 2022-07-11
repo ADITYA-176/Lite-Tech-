@@ -1,6 +1,6 @@
 # Lite-Tech-
 
-                            # CONTACT_BOOK  -- WebApplication(Project) By Aditya Mogili and Rajesh Pathi
+                            # CONTACT_BOOK  -- WebApplication(Project) By Aditya Mogili,Rajesh Pathi and Sai Teja gutpe
                             
              The Above Projet is a E-Commerce Webapplication(Store) where one can order things(items), this web application is built as 
             
