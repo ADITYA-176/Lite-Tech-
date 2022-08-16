@@ -50,8 +50,7 @@
              
                     
                     
-                    ![Screenshot 2022-07-20 at 5 33 23 PM](https://user-images.githubusercontent.com/72791488/184950869-2336c955-ae0d-4ceb-85ed-d56146abf5a2.png)
+                   ![Screenshot 2022-07-20 at 3 15 19 PM](https://user-images.githubusercontent.com/72791488/184951335-19e457bb-94f7-441b-abf5-cd03b809d3b4.png)
 
-                    
              
              
