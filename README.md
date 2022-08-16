@@ -15,11 +15,15 @@
                     -> User can also navigate to Home Page Where We descibe About Our Store
                     -> User can navigate to his Transaction History where he find his all past orders
                     -> User is also able to buy things(items) 
+                    -> User can edit his details
                     
                     *) Admin Functionality 
                     -> Admin has the privilege to add new items
                     -> After adding new items user's can also see updated items
                     -> Admin can see through all the users transaction history
+                    -> Admin can see through each user transactions seperately
+                    -> Admin is able to edit users details
+             
                     
              
              Technoligies Used:
